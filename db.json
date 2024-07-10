@@ -1,0 +1,95 @@
+{
+    "Folio_Nafinet":[
+        
+    {
+        "Folio": 20150912134,
+        "Firma_Contrato": "2022/21/08",
+        "Cve_Programa": 9002,
+        "No_Credito": 1299900000,
+        "Comision": "1.75",
+        "Cve_Nafinet": "Aprobado Nafinet",
+        "Estatus":"Aprobado Nafinet",
+        "Fecha_Solicitado": "2015-02-01",
+        "Dias": 2742,
+        "RFC_Acred": "ATI860425G41"
+      },
+             
+      {
+        "Folio": 20150912145,
+        "Firma_Contrato": "2022/21/08",
+        "Cve_Programa": 9007,
+        "No_Credito": 1299900000,
+        "Comision": "1.75",
+        "Cve_Nafinet": "Aprobado Nafinet",
+        "Estatus":"Aprobado Nafinet",
+        "Fecha_Solicitado": "2015-02-01",
+        "Dias": 2742,
+        "RFC_Acred": "ATI860425G41"
+      },
+             
+      {
+        "Folio": 20150912120,
+        "Firma_Contrato": "2022/21/08",
+        "Cve_Programa": 9001,
+        "No_Credito": 1299900000,
+        "Comision": "1.75",
+        "Cve_Nafinet": "Aprobado Nafinet",
+        "Estatus":"Aprobado Nafinet",
+        "Fecha_Solicitado": "2015-02-01",
+        "Dias": 2742,
+        "RFC_Acred": "ATI860425G41"
+      },
+             
+      {
+        "Folio": 20150912129,
+        "Firma_Contrato": "2022/21/08",
+        "Cve_Programa": 9000,
+        "No_Credito": 1299900000,
+        "Comision": "1.75",
+        "Cve_Nafinet": "Aprobado Nafinet",
+        "Estatus":"Aprobado Nafinet",
+        "Fecha_Solicitado": "2015-02-01",
+        "Dias": 2742,
+        "RFC_Acred": "ATI860425G41"
+      },
+           
+      {
+        "Folio": 20150913499,
+        "Firma_Contrato": "2022/21/08",
+        "Cve_Programa": 9005,
+        "No_Credito": 1299900000,
+        "Comision": "1.75",
+        "Cve_Nafinet": "Aprobado Nafinet",
+        "Estatus":"Rechazado Nafinet",
+        "Fecha_Solicitado": "2015-02-01",
+        "Dias": 2742,
+        "RFC_Acred": "ATI860425G41"
+      },
+      {
+        "Folio": 20150912222,
+        "Firma_Contrato": "2022/21/08",
+        "Cve_Programa": 9008,
+        "No_Credito": 1299900000,
+        "Comision": "1.75",
+        "Cve_Nafinet": "Rechazado Nafinet",
+        "Estatus":"Rechazado Nafinet",
+        "Fecha_Solicitado": "2015-02-01",
+        "Dias": 2742,
+        "RFC_Acred": "ATI860425G41"
+      },
+            
+      {
+        "Folio": 20150912122,
+        "Firma_Contrato": "2022/21/08",
+        "Cve_Programa": 9003,
+        "No_Credito": 1299900000,
+        "Comision": "1.75",
+        "Cve_Nafinet": "Rechazado Nafinet",
+        "Estatus":"Aprobado Nafinet",
+        "Fecha_Solicitado": "2015-02-01",
+        "Dias": 2742,
+        "RFC_Acred": "ATI860425G41"
+      }
+]
+    
+}

@@ -1,0 +1,18 @@
+<!-- <ul>
+    <li *ngFor="let gif of resultados">
+        {{gif.url}}
+
+    </li>
+</ul> -->
+
+<div class="row">
+    <div *ngFor="let git of resultados"
+    class="col-md-4 col-sm-6 col-xs-12">
+        <div class="card">
+            <img [src]="git.images.downsized_medium.url" [alt]="git.title" class="card-img-top rounded">
+            <div class="card-body">
+                {{git.title}}<strong> Te amo fernanda</strong>
+            </div>
+        </div>
+    </div>
+</div>

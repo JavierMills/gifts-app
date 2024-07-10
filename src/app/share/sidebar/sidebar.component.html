@@ -1,0 +1,18 @@
+<div class="border-right p-3" id="sidebar">
+  <h3>Gifts</h3>
+
+  <div class="gradient mb-3"></div>
+
+  <div class="list-group list-reset">
+    <a
+      *ngFor="let gif of historial"
+      href="#"
+      (click) = "show( gif )"
+      class="list-group-item list-group-item-action mt-3"
+      id="boton"
+    >
+      <!-- agregamos pipe para que los valores que vengan del query esten capitalizados el pipe solop funciona de manera visual-->
+      {{ gif | titlecase }}</a
+    >
+  </div>
+</div>
